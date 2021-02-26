@@ -1,9 +1,5 @@
-# Getting Started
+这是一个设计模式的 DEMO
 
-### Reference Documentation
-For further reference, please consider the following sections:
+Observer-Pattern 观察者模式
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.4.3/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.3/maven-plugin/reference/html/#build-image)
 
