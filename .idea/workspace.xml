@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e08ac42-18fb-4015-b0f5-ea205f41701e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo1/Chart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo2/ConcreteProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo2/ConcreteProductB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo2/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo3/Chart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo3/ChartFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo3/HistogramChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo3/LineChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo3/PieChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo4/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo4/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/SimpleFactoryPatternApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/test/java/com/example/young/YoungApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/main/java/com/example/young/Buyer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/main/java/com/example/young/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/main/java/com/example/young/ClientController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/main/java/com/example/young/Shop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/target/classes/com/example/young/YoungApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/observerPattern/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/observerPattern/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614325812851</updated>
       <workItem from="1614325820210" duration="7677000" />
-      <workItem from="1614564768452" duration="5306000" />
+      <workItem from="1614564768452" duration="5748000" />
     </task>
     <task id="LOCAL-00001" summary="初始化 pom 配置">
       <created>1614327822248</created>
@@ -263,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614565385570</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Simple-Factory-Pattern 简单工厂模式">
+      <created>1614570448153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614570448153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +250,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="初始化 pom 配置" />
     <MESSAGE value="初始化配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化配置" />
+    <MESSAGE value="Simple-Factory-Pattern 简单工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple-Factory-Pattern 简单工厂模式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="650" y="210" key="#Console" timestamp="1614564901951">
@@ -284,10 +262,10 @@
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
     <state x="866" y="127" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1614567031451" />
-    <state x="485" y="147" key="CommitChangelistDialog2" timestamp="1614570427269">
+    <state x="485" y="147" key="CommitChangelistDialog2" timestamp="1614570447931">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="485" y="147" key="CommitChangelistDialog2/0.23.1792.1045@0.23.1792.1045" timestamp="1614570427269" />
+    <state x="485" y="147" key="CommitChangelistDialog2/0.23.1792.1045@0.23.1792.1045" timestamp="1614570447931" />
     <state x="968" y="445" key="Github.ShareDialog" timestamp="1614328434668">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
@@ -352,10 +330,10 @@
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
     <state width="500" height="567" key="SwitcherDM/0.23.1792.1045@0.23.1792.1045" timestamp="1614332099716" />
-    <state x="618" y="285" key="Vcs.Push.Dialog.v2" timestamp="1614565392721">
+    <state x="618" y="285" key="Vcs.Push.Dialog.v2" timestamp="1614570451885">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="618" y="285" key="Vcs.Push.Dialog.v2/0.23.1792.1045@0.23.1792.1045" timestamp="1614565392721" />
+    <state x="618" y="285" key="Vcs.Push.Dialog.v2/0.23.1792.1045@0.23.1792.1045" timestamp="1614570451885" />
     <state x="801" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614570415116">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
