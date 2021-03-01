@@ -8,12 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="observerPattern" />
       </profile>
-      <profile name="Annotation profile for young" enabled="true">
-        <sourceOutputDir name="observerPattern/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="observerPattern/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="designPatterns" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="designPatterns" target="1.8" />
@@ -22,8 +16,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="designPatterns" options="-parameters" />
-      <module name="observerPattern" options="-parameters" />
+      <module name="designPatterns" options="" />
+      <module name="observerPattern" options="" />
     </option>
   </component>
 </project>
