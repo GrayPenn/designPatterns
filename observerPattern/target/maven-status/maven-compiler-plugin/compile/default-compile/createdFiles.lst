@@ -1,3 +1,5 @@
-com/example/young/YoungApplication.class
+com/example/young/Client.class
+com/example/young/ObserverPatternApplication.class
+com/example/young/ClientController.class
 com/example/young/Shop.class
 com/example/young/Buyer.class

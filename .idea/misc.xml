@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/observerPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/simpleFactoryPattern/pom.xml" />
       </list>
     </option>
   </component>

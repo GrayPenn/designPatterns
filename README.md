@@ -1,5 +1,22 @@
-这是一个设计模式的 DEMO
+内容转自 CSDN https://blog.csdn.net/lovelion/article/details/17517213
+感谢刘伟老师
 
-Observer-Pattern 观察者模式
+Simple-Factory-Pattern 简单工厂模式
+
+
+
+
+
+
+Simple-Factory-Pattern 简单工厂模式
+
+
+
+
+
+
+
+
+
 
 

@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="observerPattern" />
+        <module name="simpleFactoryPattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="designPatterns" target="1.8" />
       <module name="observerPattern" target="1.8" />
+      <module name="simpleFactoryPattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
