@@ -6,19 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="observerPattern" />
         <module name="simpleFactoryPattern" />
+        <module name="factoryMethodPattern" />
+      </profile>
+      <profile name="Annotation profile for young" enabled="true">
+        <sourceOutputDir name="factoryMethodPattern/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="factoryMethodPattern/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="designPatterns" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="designPatterns" target="1.8" />
+      <module name="factoryMethodPattern" target="1.8" />
       <module name="observerPattern" target="1.8" />
       <module name="simpleFactoryPattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="designPatterns" options="" />
+      <module name="designPatterns" options="-parameters" />
+      <module name="factoryMethodPattern" options="-parameters" />
       <module name="observerPattern" options="" />
     </option>
   </component>

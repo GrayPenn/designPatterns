@@ -1,4 +1,4 @@
-Simple-Factory-Pattern 简单工厂模式
+Simple Factory Pattern 简单工厂模式
 
 
       在Java语言中，我们通常有以下几种创建对象的方式：

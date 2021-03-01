@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e08ac42-18fb-4015-b0f5-ea205f41701e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/DatabaseLoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/FactoryMethodPatternDemo1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/FileLoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/LoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designPatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/observerPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/main/java/com/example/young/ObserverPatternApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/SimpleFactoryPatternApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/test/java/com/example/young/YoungApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryMethodPattern/src/test/java/com/example/young/YoungApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactoryPattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/simpleFactoryPattern/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo2/SimpleFactoryPatternDemo2Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo3/SimpleFactoryPatternDemo3Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simpleFactoryPattern/src/main/java/com/example/young/Demo4/SimpleFactoryPatternDemo3Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +83,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/simpleFactoryPattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
@@ -63,6 +92,8 @@
       <recent name="com.example.young.Demo2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1" />
+      <recent name="$PROJECT_DIR$/factoryMethodPattern" />
       <recent name="$PROJECT_DIR$/simpleFactoryPattern" />
     </key>
   </component>
@@ -73,13 +104,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.young.Client" />
-      <module name="observerPattern" />
+  <component name="RunManager" selected="Application.FactoryMethodPatternDemo1Main">
+    <configuration name="FactoryMethodPatternDemo1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.young.Demo1.FactoryMethodPatternDemo1Main" />
+      <module name="factoryMethodPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.young.*" />
+          <option name="PATTERN" value="com.example.young.Demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.young.Demo4.Main" />
+    <configuration name="SimpleFactoryPatternDemo2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.young.Demo2.SimpleFactoryPatternDemo2Main" />
       <module name="simpleFactoryPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.young.Demo4.*" />
+          <option name="PATTERN" value="com.example.young.Demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +144,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.young.Demo2.Main" />
+    <configuration name="SimpleFactoryPatternDemo3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.young.Demo3.SimpleFactoryPatternDemo3Main" />
       <module name="simpleFactoryPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.young.Demo2.*" />
+          <option name="PATTERN" value="com.example.young.Demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryPatternDemo3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.young.Demo4.SimpleFactoryPatternDemo3Main" />
+      <module name="simpleFactoryPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.young.Demo4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FactoryMethodPatternDemo1Main" />
+        <item itemvalue="Application.SimpleFactoryPatternDemo3Main" />
+        <item itemvalue="Application.SimpleFactoryPatternDemo2Main" />
+        <item itemvalue="Application.SimpleFactoryPatternDemo3Main" />
         <item itemvalue="Spring Boot.ObserverPatternApplication" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +233,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -217,7 +261,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614325812851</updated>
       <workItem from="1614325820210" duration="7677000" />
-      <workItem from="1614564768452" duration="5748000" />
+      <workItem from="1614564768452" duration="13134000" />
     </task>
     <task id="LOCAL-00001" summary="初始化 pom 配置">
       <created>1614327822248</created>
@@ -240,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614570448153</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="readme 更新">
+      <created>1614570831615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614570831615</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +302,8 @@
     <MESSAGE value="初始化 pom 配置" />
     <MESSAGE value="初始化配置" />
     <MESSAGE value="Simple-Factory-Pattern 简单工厂模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple-Factory-Pattern 简单工厂模式" />
+    <MESSAGE value="readme 更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme 更新" />
   </component>
   <component name="WindowStateProjectService">
     <state x="650" y="210" key="#Console" timestamp="1614564901951">
@@ -262,10 +314,14 @@
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
     <state x="866" y="127" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1614567031451" />
-    <state x="485" y="147" key="CommitChangelistDialog2" timestamp="1614570447931">
+    <state x="485" y="147" key="CommitChangelistDialog2" timestamp="1614570831509">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="485" y="147" key="CommitChangelistDialog2/0.23.1792.1045@0.23.1792.1045" timestamp="1614570447931" />
+    <state x="485" y="147" key="CommitChangelistDialog2/0.23.1792.1045@0.23.1792.1045" timestamp="1614570831509" />
+    <state width="442" height="466" key="DebuggerActiveHint" timestamp="1614588516288">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="442" height="466" key="DebuggerActiveHint/0.23.1792.1045@0.23.1792.1045" timestamp="1614588516288" />
     <state x="968" y="445" key="Github.ShareDialog" timestamp="1614328434668">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
@@ -274,38 +330,38 @@
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
     <state x="781" y="258" key="Github.UntrackedFilesDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1614326271717" />
-    <state width="1476" height="342" key="GridCell.Tab.0.bottom" timestamp="1614568739702">
+    <state width="1476" height="342" key="GridCell.Tab.0.bottom" timestamp="1614588511867">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="1476" height="342" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1614568739702" />
-    <state width="1476" height="342" key="GridCell.Tab.0.center" timestamp="1614568739701">
+    <state width="1476" height="342" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1614588511867" />
+    <state width="1476" height="342" key="GridCell.Tab.0.center" timestamp="1614588511867">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="1476" height="342" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1614568739701" />
-    <state width="1476" height="342" key="GridCell.Tab.0.left" timestamp="1614568739700">
+    <state width="1476" height="342" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1614588511867" />
+    <state width="1476" height="342" key="GridCell.Tab.0.left" timestamp="1614588511867">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="1476" height="342" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1614568739700" />
-    <state width="1476" height="342" key="GridCell.Tab.0.right" timestamp="1614568739702">
+    <state width="1476" height="342" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1614588511867" />
+    <state width="1476" height="342" key="GridCell.Tab.0.right" timestamp="1614588511867">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="1476" height="342" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1614568739702" />
-    <state width="1476" height="342" key="GridCell.Tab.1.bottom" timestamp="1614568739522">
+    <state width="1476" height="342" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1614588511867" />
+    <state width="1476" height="342" key="GridCell.Tab.1.bottom" timestamp="1614588507430">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="1476" height="342" key="GridCell.Tab.1.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1614568739522" />
-    <state width="1476" height="342" key="GridCell.Tab.1.center" timestamp="1614568739522">
+    <state width="1476" height="342" key="GridCell.Tab.1.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1614588507430" />
+    <state width="1476" height="342" key="GridCell.Tab.1.center" timestamp="1614588507428">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="1476" height="342" key="GridCell.Tab.1.center/0.23.1792.1045@0.23.1792.1045" timestamp="1614568739522" />
-    <state width="1476" height="342" key="GridCell.Tab.1.left" timestamp="1614568739522">
+    <state width="1476" height="342" key="GridCell.Tab.1.center/0.23.1792.1045@0.23.1792.1045" timestamp="1614588507428" />
+    <state width="1476" height="342" key="GridCell.Tab.1.left" timestamp="1614588507425">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="1476" height="342" key="GridCell.Tab.1.left/0.23.1792.1045@0.23.1792.1045" timestamp="1614568739522" />
-    <state width="1476" height="342" key="GridCell.Tab.1.right" timestamp="1614568739522">
+    <state width="1476" height="342" key="GridCell.Tab.1.left/0.23.1792.1045@0.23.1792.1045" timestamp="1614588507425" />
+    <state width="1476" height="342" key="GridCell.Tab.1.right" timestamp="1614588507430">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="1476" height="342" key="GridCell.Tab.1.right/0.23.1792.1045@0.23.1792.1045" timestamp="1614568739522" />
+    <state width="1476" height="342" key="GridCell.Tab.1.right/0.23.1792.1045@0.23.1792.1045" timestamp="1614588507430" />
     <state width="1012" height="295" key="GridCell.Tab.2.bottom" timestamp="1614568725041">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
@@ -326,29 +382,50 @@
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
     <state x="556" y="207" key="Maven.ArtifactSearchDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1614327571568" />
-    <state width="500" height="567" key="SwitcherDM" timestamp="1614332099716">
+    <state width="500" height="576" key="SwitcherDM" timestamp="1614586331184">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state width="500" height="567" key="SwitcherDM/0.23.1792.1045@0.23.1792.1045" timestamp="1614332099716" />
-    <state x="618" y="285" key="Vcs.Push.Dialog.v2" timestamp="1614570451885">
+    <state width="500" height="576" key="SwitcherDM/0.23.1792.1045@0.23.1792.1045" timestamp="1614586331184" />
+    <state x="618" y="285" key="Vcs.Push.Dialog.v2" timestamp="1614570844849">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="618" y="285" key="Vcs.Push.Dialog.v2/0.23.1792.1045@0.23.1792.1045" timestamp="1614570451885" />
+    <state x="618" y="285" key="Vcs.Push.Dialog.v2/0.23.1792.1045@0.23.1792.1045" timestamp="1614570844849" />
     <state x="801" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614570415116">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
     <state x="801" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1045@0.23.1792.1045" timestamp="1614570415116" />
-    <state x="659" y="302" width="748" height="486" key="find.popup" timestamp="1614332496474">
+    <state x="659" y="302" width="902" height="550" key="find.popup" timestamp="1614581580710">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="659" y="302" width="748" height="486" key="find.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1614332496474" />
-    <state x="376" y="99" key="new project wizard" timestamp="1614566898011">
+    <state x="659" y="302" width="902" height="550" key="find.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1614581580710" />
+    <state x="376" y="99" key="new project wizard" timestamp="1614570942854">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="376" y="99" key="new project wizard/0.23.1792.1045@0.23.1792.1045" timestamp="1614566898011" />
-    <state x="688" y="255" key="search.everywhere.popup" timestamp="1614332170405">
+    <state x="376" y="99" key="new project wizard/0.23.1792.1045@0.23.1792.1045" timestamp="1614570942854" />
+    <state x="688" y="255" width="670" height="676" key="search.everywhere.popup" timestamp="1614586259629">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="688" y="255" key="search.everywhere.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1614332170405" />
+    <state x="688" y="255" width="670" height="676" key="search.everywhere.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1614586259629" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/FactoryMethodPatternDemo1Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/XMLUtil.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/factoryMethodPattern/src/main/java/com/example/young/Demo1/XMLUtil.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

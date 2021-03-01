@@ -4,7 +4,7 @@ package com.example.young.Demo3;
  * @author pgy
  * @date 2021/3/1 11:07 上午
  **/
-public class Main {
+public class SimpleFactoryPatternDemo3Main {
 
     public static void main(String args[]) {
         Chart chart;
