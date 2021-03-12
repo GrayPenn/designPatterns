@@ -12,6 +12,7 @@
     <artifactId>structuralPatterns</artifactId>
 
     <modules>
+        <module>facadePattern</module>
     </modules>
 
 </project>

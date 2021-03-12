@@ -32,7 +32,7 @@
 
 装饰模式-Decorator Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
 
-外观模式-Facade Pattern【学习难度：★☆☆☆☆，使用频率：★★★★★】
+(√)外观模式-Facade Pattern【学习难度：★☆☆☆☆，使用频率：★★★★★】
 
 享元模式-Flyweight Pattern【学习难度：★★★★☆，使用频率：★☆☆☆☆】
 
