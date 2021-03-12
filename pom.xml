@@ -9,9 +9,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>simpleFactoryPattern</module>
-        <module>factoryMethodPattern</module>
-        <module>observerPattern</module>
+        <module>creationalPatterns</module>
+        <module>structuralPatterns</module>
+        <module>behaviouralPatterns</module>
     </modules>
     <!-- 统一管理jar包版本 -->
     <properties>
