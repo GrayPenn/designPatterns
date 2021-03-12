@@ -15,6 +15,7 @@
         <module>factoryMethodPattern</module>
         <module>simpleFactoryPattern</module>
         <module>abstractFactoryPattern</module>
+        <module>singletonPattern</module>
     </modules>
 
 </project>
