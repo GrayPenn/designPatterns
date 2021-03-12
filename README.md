@@ -5,11 +5,11 @@
 
 ### 六个创建型模式
 
-简单工厂模式-Simple Factory Pattern【学习难度：★★☆☆☆，使用频率：★★★☆☆】
+(√)简单工厂模式-Simple Factory Pattern【学习难度：★★☆☆☆，使用频率：★★★☆☆】
 
-工厂方法模式-Factory Method Pattern【学习难度：★★☆☆☆，使用频率：★★★★★】
+(√)工厂方法模式-Factory Method Pattern【学习难度：★★☆☆☆，使用频率：★★★★★】
 
-抽象工厂模式-Abstract  Factory Pattern【学习难度：★★★★☆，使用频率：★★★★★】
+(√)抽象工厂模式-Abstract  Factory Pattern【学习难度：★★★★☆，使用频率：★★★★★】
 
 单例模式-Singleton Pattern【学习难度：★☆☆☆☆，使用频率：★★★★☆】
 
@@ -50,7 +50,7 @@
 
 备忘录模式-Memento Pattern【学习难度：★★☆☆☆，使用频率：★★☆☆☆】
 
-观察者模式-Observer Pattern【学习难度：★★★☆☆，使用频率：★★★★★】
+(√)观察者模式-Observer Pattern【学习难度：★★★☆☆，使用频率：★★★★★】
 
 状态模式-State Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
 
