@@ -12,9 +12,9 @@
 
 (√)抽象工厂模式-Abstract  Factory Pattern【学习难度：★★★★☆，使用频率：★★★★★】
 
-单例模式-Singleton Pattern【学习难度：★☆☆☆☆，使用频率：★★★★☆】
+(√)单例模式-Singleton Pattern【学习难度：★☆☆☆☆，使用频率：★★★★☆】
 
-原型模式-Prototype Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
+(√)原型模式-Prototype Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
 
 建造者模式-Builder Pattern【学习难度：★★★★☆，使用频率：★★☆☆☆】
 
