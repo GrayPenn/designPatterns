@@ -6,19 +6,11 @@
         <artifactId>young</artifactId>
         <groupId>com.example</groupId>
         <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>creationalPatterns</artifactId>
+    <artifactId>builderPatterns</artifactId>
 
-    <modules>
-        <module>factoryMethodPattern</module>
-        <module>simpleFactoryPattern</module>
-        <module>abstractFactoryPattern</module>
-        <module>singletonPattern</module>
-        <module>prototypePattern</module>
-        <module>builderPatterns</module>
-
-    </modules>
 
 </project>
