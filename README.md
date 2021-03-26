@@ -49,7 +49,7 @@
 
 解释器模式-Interpreter Pattern【学习难度：★★★★★，使用频率：★☆☆☆☆】
 
-迭代器模式-Iterator Pattern【学习难度：★★★☆☆，使用频率：★★★★★】
+(√)迭代器模式-Iterator Pattern【学习难度：★★★☆☆，使用频率：★★★★★】
 
 中介者模式-Mediator Pattern【学习难度：★★★☆☆，使用频率：★★☆☆☆】
 
@@ -61,7 +61,7 @@
 
 *空对象模式-Null Object Pattern
 
-策略模式-Strategy Pattern【学习难度：★☆☆☆☆，使用频率：★★★★☆】
+(√)策略模式-Strategy Pattern【学习难度：★☆☆☆☆，使用频率：★★★★☆】
 
 模板方法模式-Template Method Pattern【学习难度：★★☆☆☆，使用频率：★★★☆☆】
 
