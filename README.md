@@ -24,7 +24,7 @@
 
 (√)适配器模式-Adapter Pattern【学习难度：★★☆☆☆，使用频率：★★★★☆】
 
-桥接模式-Bridge Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
+(√)桥接模式-Bridge Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
 
 *过滤器模式-Filter、Criteria Pattern
 
