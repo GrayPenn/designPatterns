@@ -26,7 +26,7 @@
 
 (√)桥接模式-Bridge Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
 
-*过滤器模式-Filter、Criteria Pattern
+(√)*过滤器模式-Filter、Criteria Pattern
 
 (√)组合模式-Composite Pattern【学习难度：★★★☆☆，使用频率：★★★★☆】
 
@@ -36,7 +36,7 @@
 
 享元模式-Flyweight Pattern【学习难度：★★★★☆，使用频率：★☆☆☆☆】
 
-代理模式-Proxy Pattern【学习难度：★★★☆☆，使用频率：★★★★☆】
+(√)代理模式-Proxy Pattern【学习难度：★★★☆☆，使用频率：★★★★☆】
 
 
 

@@ -19,6 +19,7 @@
         <module>compositePattern</module>
         <module>decoratorPattern</module>
         <module>filterPattern</module>
+        <module>proxyPattern</module>
 
     </modules>
 
