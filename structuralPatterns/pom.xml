@@ -20,6 +20,7 @@
         <module>decoratorPattern</module>
         <module>filterPattern</module>
         <module>proxyPattern</module>
+        <module>flyweightPattern</module>
 
     </modules>
 
