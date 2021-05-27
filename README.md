@@ -28,9 +28,9 @@
 
 *过滤器模式-Filter、Criteria Pattern
 
-组合模式-Composite Pattern【学习难度：★★★☆☆，使用频率：★★★★☆】
+(√)组合模式-Composite Pattern【学习难度：★★★☆☆，使用频率：★★★★☆】
 
-装饰模式-Decorator Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
+(√)装饰模式-Decorator Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】
 
 (√)外观模式-Facade Pattern【学习难度：★☆☆☆☆，使用频率：★★★★★】
 
